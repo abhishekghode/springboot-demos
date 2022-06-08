@@ -1,2 +1,2 @@
 Hello, World!
-This line will be commited!
+This is a little feature added in an application.
